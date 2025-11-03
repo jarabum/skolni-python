@@ -2,4 +2,5 @@
 veci co jsme delali ve skole v pythonu :)
 <hr>
 mommy <3
+<br>
 dihh
